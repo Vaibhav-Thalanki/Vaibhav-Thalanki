@@ -3,7 +3,6 @@ I am a final year undergraduate student at Vellore Institute of Technology, Chen
 ## My GitHub Stats
 ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-Thalanki&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github)     
 
-![Top Tech Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Thalanki&layout=compact&theme=tokyonight&card_width=445)    
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhav-Thalanki&theme=monokai"  display=block width=100% height=auto alt="1"></p>    
 
