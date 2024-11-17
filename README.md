@@ -1,5 +1,5 @@
 # Hi, I am Vaibhav :sparkles:🙋
-I am a final year undergraduate student at Vellore Institute of Technology, Chennai majoring in Computer Science. I have a passion for software development, natural language processing and machine learning. 
+I am a Computer Science Graduate Student at Northeastern University, Boston. I have a passion for software development, natural language processing and machine learning. 
 ## My GitHub Stats
 ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-Thalanki&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github)     
 
